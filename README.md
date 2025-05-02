@@ -30,11 +30,11 @@
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 20px>  </picture> Frontend Development
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,astro,angular&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,astro,react&perline=6)](https://skillicons.dev)
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true" width = 20px>  </picture> Backend Development
 
-[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,express,nest&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,express,laravel&perline=6)](https://skillicons.dev)
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 20px>  </picture> Software & Tools
 
